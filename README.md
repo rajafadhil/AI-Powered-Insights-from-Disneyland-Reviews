@@ -73,3 +73,73 @@ The IBM Granite LLM (Large Language Model) was used for:
 From the following reviews, identify:
 1. The top 3 most frequent complaints
 2. The top 3 most frequent praises
+```
+---
+
+## 🧠 Insight & Findings
+### Disneyland California
+Praises:
+- Exceptional customer service
+- Magical atmosphere and iconic rides
+- FastPass system improves experience
+
+Complaints:
+- Expensive food and merchandise
+- Long wait times for rides
+- Overcrowding during peak seasons
+
+### Disneyland Paris
+Praises:
+- Well-organized and clean park
+- Immersive Disney-themed atmosphere
+- FastPass feature appreciated
+
+Complaints:
+- Long queues and ride closures
+- High prices, even outside the park
+- Some staff perceived as indifferent
+
+### Disneyland Hong Kong
+Praises:
+- Magical and family-friendly environment
+- Easy access via public transport, great shows
+- Shorter lines during weekdays
+
+Complaints:
+- Smaller size than other Disney parks
+- Mixed quality of food relative to price
+- Long queues during peak hours
+
+---
+
+## ✅ Conclusion & Recommendation
+Conclusion
+- Overall sentiment is positive across all parks.
+- FastPass, customer service, and theming are consistently appreciated.
+- Common challenges include price, queue time, and seasonal overcrowding.
+- Each park has distinct strengths and operational weaknesses.
+
+Recommendations
+For Disneyland Management:
+- Improve Queue Management
+   - Enhance FastPass or introduce app-based queueing
+- Reassess Pricing Strategy
+   - Offer budget-friendly dining or bundling options
+- Staff Training & Consistency
+   - Emphasize hospitality, particularly in Paris and Hong Kong
+
+For Visitors:
+- Visit Off-Season
+   - November and weekdays offer better comfort
+- Use FastPass Strategically
+   - Prioritize popular attractions and book in advance
+- Plan & Budget Accordingly
+   - Expect premium prices for food and experiences
+
+---
+
+## 🧰 Tools & Technologies
+- Python (Pandas, Seaborn, Matplotlib, WordCloud)
+- IBM Granite LLM via Replicate API
+- Google  Notebook
+- GitHub
