@@ -141,7 +141,7 @@ For Visitors:
 ## 🧰 Tools & Technologies
 - Python (Pandas, Seaborn, Matplotlib, WordCloud)
 - IBM Granite LLM via Replicate API
-- Google  Notebook
+- Google Colab Notebook
 - GitHub
 
 ---
