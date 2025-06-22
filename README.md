@@ -143,3 +143,8 @@ For Visitors:
 - IBM Granite LLM via Replicate API
 - Google  Notebook
 - GitHub
+
+---
+
+## 🗂️ Slide PDF
+[Link to Slide](https://drive.google.com/file/d/1X6baeWproK4T0cpuLteRliT5mPiw2kTG/view?usp=sharing)
