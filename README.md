@@ -38,7 +38,7 @@ The dataset is sourced from [Kaggle - Disneyland Reviews](https://www.kaggle.com
    Top reviewers come from the US and UK, reflecting travel and proximity trends.
 
 4. **Keyword Themes**  
-   - Positive reviews: `ride`, `kid`, `fun`, `fast pass`
+   - Positive reviews: `ride`, `kid`, `fun`, `attraction`
    - Negative reviews: `queue`, `staff`, `wait`, `price`
 
 5. **Time Trends**  
@@ -58,8 +58,8 @@ The IBM Granite LLM (Large Language Model) was used for:
 2. **Insight Extraction**  
    Identifying top 3 recurring praises and complaints per location.
 
-3. **(Optional) Sentiment Classification**  
-   Future work may include full-scale sentiment classification using LLM or ML models.
+3. **Sentiment Classification**  
+   Create positive, neutral and negative sentiments from each review.
 
 ### Why Use LLMs
 
